@@ -1,0 +1,23 @@
+Which tickers lend to trading between the 10PM 12AM Timeframe
+
+Which tickers lend to trading under the requried entry needs
+between 9:30 AM to 10:45 AM / 1PM to 3:30PM
+
+Looking for
+
+	High volume period
+	At least a 10 tick differnce between EMA and SMA
+	Entry One tick above most recent high/low bar on 1 min chart
+	Use 5 min chart to determine likehood of direction of trade
+	40+ push from entry towards daily high/low or open
+
+Periods of largest divergence between EMA and SMA 
+
+	Highest periods 
+	Lowest periods
+	
+Periods of largest volume during the trading day
+
+	9 AM to 12PM
+	1 PM to 4PM
+	10 PM to 12AM	 
