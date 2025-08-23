@@ -1,0 +1,14 @@
+# Ignore database files
+*.db
+
+# Ignore Excel exports
+*.xlsx
+
+# Ignore ODT docs
+*.odt
+
+# Ignore images
+*.png
+
+# Ignore temp files
+*.txt
