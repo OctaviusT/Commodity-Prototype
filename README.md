@@ -10,3 +10,10 @@ It is designed to demonstrate data engineering, database management, and applied
 - Provide a foundation for analysis in **Power BI** or advanced models
 
 ## 📂 Project Structure
+Project Name:
+
+Southwest Virginia Commodity Dashboard Prototype
+
+Mission / Goal:
+
+Build a Python-driven, database-backed prototype that collects, stores, and analyzes financial and commodity data relevant to Southwest Virginia businesses (manufacturing, logistics, agriculture, and energy).
