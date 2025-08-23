@@ -1,1 +1,20 @@
+# Commodities Module
 
+This module provides scripts for collecting, storing, and analyzing commodity
+market data. It forms the data backbone of the Commodity Prototype project.
+
+## Purpose
+The commodities module handles raw market information such as prices,
+volumes, and regional trade flows. The goal is to create a clean and
+query-ready dataset for integration with other modules, such as the
+Finance Module.
+
+## Structure
+- `commodity_script.py` → Example script that pulls and processes commodity data.
+- (future) Additional scripts for importing regional commodity prices,
+  managing historical data, and integrating with external APIs.
+
+## Next Steps
+- Expand scripts to include multiple commodities and regional datasets.
+- Build export functions to move processed data into Power BI or Excel.
+- Create links to the Finance Module for combined analytics workflows.
